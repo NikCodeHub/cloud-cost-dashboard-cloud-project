@@ -1,0 +1,8 @@
+{
+  "name": "fetch-costs",
+  "version": "1.0.0",
+  "main": "fetchCosts.js",
+  "dependencies": {
+    "aws-sdk": "^2.1422.0"
+  }
+}
